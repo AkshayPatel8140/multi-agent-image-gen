@@ -29,8 +29,3 @@ pydantic>=2.0.0              # Data validation (LangChain dependency)
 # langchain-bedrock>=0.1.0    # For AWS Bedrock models
 # langchain-cohere>=0.1.0     # For Cohere models
 # langchain-huggingface>=0.0.6  # For Hugging Face models
-
-# Development and testing (optional)
-# pytest>=7.0.0               # For testing
-# black>=23.0.0               # Code formatting
-# flake8>=6.0.0               # Code linting
