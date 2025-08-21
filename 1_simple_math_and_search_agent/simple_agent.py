@@ -259,7 +259,8 @@ def run_interactive_session():
             # Stream the results for real-time feedback
             for event in graph.stream(
                 {"messages": [HumanMessage(content=user_input)]}, 
-                stream_mode="values"
+                stream_mode="values",
+                recursion_limit=1000
             ):
                 # Get the last message from the event
                 last_message = event["messages"][-1]
@@ -267,7 +268,7 @@ def run_interactive_session():
                 # Extract and display the content
                 content = getattr(last_message, "content", str(last_message))
                 if content:
-                    print(content)
+                    print("\n" + content + "\n")
                     
         except KeyboardInterrupt:
             print("\n\n👋 Session interrupted. Goodbye!")

@@ -17,7 +17,8 @@ langchain-openai>=0.0.5      # For OpenAI models (GPT-4, GPT-3.5)
 # langchain-ollama>=0.0.1     # For local models via Ollama
 
 # Search and web tools
-ddgs>=4.0.0                   # Modern web search functionality (replaces duckduckgo-search)
+# ddgs>=4.0.0         
+duckduckgo-search>=7.0.0          # Modern web search functionality (replaces duckduckgo-search)
 requests>=2.31.0             # HTTP requests (dependency)
 
 # Environment and configuration

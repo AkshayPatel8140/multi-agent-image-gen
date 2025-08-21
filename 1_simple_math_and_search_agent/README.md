@@ -11,6 +11,12 @@ This project demonstrates how to build a basic AI agent that can intelligently d
 - **🧠 Intelligent Decision Making**: Automatically choose which tools to use based on user requests
 - **💬 Natural Conversations**: Handle general questions and maintain conversation context
 
+## 🎬 Demo in Action
+
+![Simple Math and Search Agent Demo](demo.gif)
+
+*Watch the agent in action! This demo shows the VS Code interface with the agent running, demonstrating the interactive terminal experience and file structure.*
+
 ## 🏗️ Architecture Overview
 
 ```
