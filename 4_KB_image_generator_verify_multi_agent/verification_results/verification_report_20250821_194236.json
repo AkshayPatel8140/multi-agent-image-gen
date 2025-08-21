@@ -1,0 +1,91 @@
+{
+  "verification_report": {
+    "overall_compliant": false,
+    "palette_compliance": {
+      "compliant": false,
+      "threshold": 80.0,
+      "dominant_to_palette_distances": [
+        {
+          "dominant_color": [
+            255,
+            255,
+            255
+          ],
+          "closest_distance": 57.28
+        },
+        {
+          "dominant_color": [
+            49,
+            60,
+            46
+          ],
+          "closest_distance": 116.26
+        },
+        {
+          "dominant_color": [
+            45,
+            54,
+            43
+          ],
+          "closest_distance": 121.08
+        },
+        {
+          "dominant_color": [
+            178,
+            146,
+            94
+          ],
+          "closest_distance": 153.56
+        },
+        {
+          "dominant_color": [
+            122,
+            143,
+            105
+          ],
+          "closest_distance": 108.76
+        }
+      ],
+      "brand_colors": [
+        "#059669",
+        "#10B981",
+        "#34D399",
+        "#FEF3C7"
+      ]
+    },
+    "style_compliance": {
+      "forbidden_terms_found": [],
+      "style_elements_present": [
+        "clean",
+        "friendly"
+      ],
+      "brand_colors_mentioned": [
+        "#059669",
+        "#10B981",
+        "#34D399",
+        "#FEF3C7"
+      ],
+      "overall_style_compliant": true
+    },
+    "verification_timestamp": "2025-08-21T23:42:36.967958+00:00",
+    "brand_name": "EcoGreen Sustainability",
+    "brand_key": "eco_green"
+  },
+  "user_input": {
+    "user_company": "eco_green",
+    "user_idea": "A green office space with plants and natural light",
+    "user_size": "1024x1024",
+    "user_position": "bottom-center"
+  },
+  "generation_details": {
+    "prompt": "A bright, airy green office space bathed in warm natural light, filled with lush leafy plants in organic pots, eco-friendly wooden desks and chairs with smooth curves, soft shadows and a harmonious palette of vibrant greens (#059669, #10B981, #34D399) and warm cream (#FEF3C7), emphasizing a sustainable, natural, and tranquil atmosphere with textured natural materials and no synthetic or harsh elements, captured in a clean, inviting style that conveys trustworthiness and harmony with nature.",
+    "image_path": "generated_brand_image/eco_green_final_20250821_194236.png",
+    "generated_at": "2025-08-21T23:42:36.967988+00:00",
+    "image_hash": "0dca8e2724070797b99bca55dc098aacc6a02c516b24d9bc18dec2123a1550e7"
+  },
+  "summary": {
+    "brand_compliant": false,
+    "palette_compliant": false,
+    "style_compliant": true
+  }
+}

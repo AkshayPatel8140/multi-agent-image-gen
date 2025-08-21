@@ -1,0 +1,91 @@
+{
+  "verification_report": {
+    "overall_compliant": false,
+    "palette_compliance": {
+      "compliant": false,
+      "threshold": 80.0,
+      "dominant_to_palette_distances": [
+        {
+          "dominant_color": [
+            0,
+            0,
+            0
+          ],
+          "closest_distance": 29.44
+        },
+        {
+          "dominant_color": [
+            203,
+            1,
+            1
+          ],
+          "closest_distance": 97.12
+        },
+        {
+          "dominant_color": [
+            204,
+            0,
+            0
+          ],
+          "closest_distance": 97.79
+        },
+        {
+          "dominant_color": [
+            0,
+            3,
+            4
+          ],
+          "closest_distance": 25.57
+        },
+        {
+          "dominant_color": [
+            0,
+            1,
+            2
+          ],
+          "closest_distance": 27.75
+        }
+      ],
+      "brand_colors": [
+        "#FF3B3B",
+        "#111111",
+        "#FFFFFF",
+        "#00D4FF"
+      ]
+    },
+    "style_compliance": {
+      "forbidden_terms_found": [],
+      "style_elements_present": [
+        "modern",
+        "clean",
+        "professional"
+      ],
+      "brand_colors_mentioned": [
+        "#FF3B3B",
+        "#111111",
+        "#00D4FF"
+      ],
+      "overall_style_compliant": true
+    },
+    "verification_timestamp": "2025-08-21T23:35:38.772676+00:00",
+    "brand_name": "ACME Robotics",
+    "brand_key": "acme"
+  },
+  "user_input": {
+    "user_company": "acme",
+    "user_idea": "A futuristic office space with green plants",
+    "user_size": "1024x1024",
+    "user_position": "top-right"
+  },
+  "generation_details": {
+    "prompt": "A sleek futuristic office space illuminated by cool blue (#00D4FF) and crisp white lighting against a deep black (#111111) background, featuring minimalistic geometric furniture with clean lines, integrated cutting-edge robotic technology subtly embedded into desks and walls, vibrant green plants providing a sharp organic contrast, red (#FF3B3B) accents as subtle highlights on tech devices, overall high contrast, tech-focused and professional atmosphere, ultra-modern and minimal with a light-on-dark aesthetic.",
+    "image_path": "generated_brand_image/acme_final_20250821_193538.png",
+    "generated_at": "2025-08-21T23:35:38.772703+00:00",
+    "image_hash": "d06607673de5414f122645c8227899484a577726af085e982ac47e70782b2ae4"
+  },
+  "summary": {
+    "brand_compliant": false,
+    "palette_compliant": false,
+    "style_compliant": true
+  }
+}
